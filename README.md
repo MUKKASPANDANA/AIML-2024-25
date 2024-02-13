@@ -6,3 +6,6 @@ https://github.com/MUKKASPANDANA/AIML-2024-25/blob/main/LAB_02.ipynb
 
 LAB-03
 https://github.com/MUKKASPANDANA/AIML-2024-25/blob/main/LAB_03.ipynb
+
+LAB-04
+https://github.com/MUKKASPANDANA/AIML-2024-25/blob/main/lab_04.ipynb
